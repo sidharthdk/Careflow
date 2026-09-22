@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#F8F9FA</color>
+    <string name="about_section">About CareFlow</string>
+    <string name="add_caregiver">Add a trusted caregiver</string>
+    <string name="add_document">Add document</string>
+    <string name="add_health_update">Add health update</string>
+    <string name="ai_extraction_placeholder">AI extraction will be added in the next development phase</string>
+    <string name="any_symptoms">Any symptoms?</string>
+    <string name="app_name">CareFlow</string>
+    <string name="cancel">Cancel</string>
+    <string name="care_plan_title">Care Plan</string>
+    <string name="caregiver_section">Caregiver</string>
+    <string name="choose_gallery">Choose from gallery</string>
+    <string name="close">Close</string>
+    <string name="completed">Completed</string>
+    <string name="document_captured">Document captured</string>
+    <string name="document_options_title">Add health document</string>
+    <string name="document_saved">Document saved</string>
+    <string name="enter_manually">Enter manually</string>
+    <string name="home_greeting_afternoon">Good afternoon</string>
+    <string name="home_greeting_evening">Good evening</string>
+    <string name="home_greeting_morning">Good morning</string>
+    <string name="home_subtitle">Here\'s your care for today</string>
+    <string name="how_feeling">How are you feeling?</string>
+    <string name="log_recovery">Log today\'s recovery</string>
+    <string name="mark_complete">Mark complete</string>
+    <string name="my_profile">My Profile</string>
+    <string name="nav_care_plan">Care Plan</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_recovery">Recovery</string>
+    <string name="next_appointment">Next appointment</string>
+    <string name="privacy_section">Privacy</string>
+    <string name="profile_title">Profile</string>
+    <string name="recovery_day">Recovery day</string>
+    <string name="recovery_subtitle">Your progress since your last visit</string>
+    <string name="recovery_title">Recovery</string>
+    <string name="retake">Retake</string>
+    <string name="save">Save</string>
+    <string name="section_afternoon">Afternoon</string>
+    <string name="section_evening">Evening</string>
+    <string name="section_morning">Morning</string>
+    <string name="section_upcoming">Upcoming</string>
+    <string name="tagline">From doctor\'s instructions to recovery</string>
+    <string name="take_photo">Take a photo</string>
+    <string name="today_care_title">Today\'s Care</string>
+    <string name="use_document">Use document</string>
+    <style name="Theme.CareFlow" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
